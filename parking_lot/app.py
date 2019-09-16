@@ -4,5 +4,5 @@ print("Rene")
 name = "Liam 2.0"
 
 print(name)
-print("whatever")
-
+print(name)
+print(name)
